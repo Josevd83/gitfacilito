@@ -106,7 +106,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .infoContent .block h3{
-    font-family: 'Signika Negative', sans-serif;
+   /* font-family: 'Signika Negative', sans-serif;*/
     font-size: 25px;
     margin: 5px 0 10px 0;
     text-transform: uppercase;
@@ -154,11 +154,10 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .btn:hover{
-    /*transform: scale(1.2);
+    transform: scale(1.2);
     letter-spacing: 3px;
     background-color: #D74932;
-    color: white;*/
-	transform: scale(1.2);
+    color: white;
 }
 .fa:hover{
     transition: 0.3s;
