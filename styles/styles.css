@@ -146,6 +146,7 @@ h1,h2,h3,h4,h5,h6{
 	color: black;
 	margin: 10px 0;
 	display: inline-block;
+	transition: 0.3s;
 }
 
 .btn-pint{
@@ -153,10 +154,11 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .btn:hover{
-    transform: scale(1.2);
+    /*transform: scale(1.2);
     letter-spacing: 3px;
     background-color: #D74932;
-    color: white;
+    color: white;*/
+	transform: scale(1.2);
 }
 .fa:hover{
     transition: 0.3s;
