@@ -94,7 +94,7 @@ h1,h2,h3,h4,h5,h6{
     font-size: 50px;
     margin: 15px 0;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: uppercase; 
     letter-spacing: 5px;
 }
 
@@ -141,7 +141,7 @@ h1,h2,h3,h4,h5,h6{
     box-shadow: 0px 1px 3px black;*/
 	padding: 10px 20px;
 	border-radius: 5px;
-	border #D4C31C;
+	border 2px solid #D4C31C;
 	background-color: #4299D4;
 	color: black;
 	margin: 10px 0;
